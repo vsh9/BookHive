@@ -1,0 +1,4 @@
+Django==5.0.7
+django-ninja==1.2.2
+python==3.12.4
+SQLite version 3.46.0
