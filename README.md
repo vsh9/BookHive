@@ -1,4 +1,4 @@
-# Library Management System
+# BookHive
 
 This project is a comprehensive Django-Ninja application demonstrating the creation and management of APIs. It simplifies library operations by implementing basic CRUD (Create, Read, Update, Delete) functionality for a library management system.
 
